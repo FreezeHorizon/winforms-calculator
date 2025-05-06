@@ -14,6 +14,7 @@ namespace winforms_calculator
 {
     public partial class Kalkulator : Form
     {
+		// test
         private string result;
         private string operation = "";
         private string operandFirst = string.Empty, operandSecond = string.Empty;
